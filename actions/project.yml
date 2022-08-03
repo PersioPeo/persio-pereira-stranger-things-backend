@@ -19,4 +19,4 @@ jobs:
 
           
         - name: lint
-          run: npx eslint
+          run: npx eslint .
